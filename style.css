@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    color:black;
+}
+#characters img{
+    width: 300px;
+    margin-left: 0px;
+}
+#characters{
+    margin-top: 100px;
+    background:white;
+    width: 700px;
+    border-radius: 25px;
+    border:2px solid black;
+    box-shadow: 5px 5px 5px rgb(46, 46, 46);
+}
+button{
+    box-shadow: 5px 5px 5px rgb(48, 63, 48);
+}
